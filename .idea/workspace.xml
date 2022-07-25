@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7525dbf1-9f86-484c-bd26-869ddf37d016" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/netology/sales/services/SalesService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/sales/services/SalesServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CP5xQ5D0q6IV2wpcP6z83zMqrY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/Admin/IdeaProjects/sales/src/test/java&quot;
+  }
+}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean test" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.SalesServiceTest.shouldFindMinSales">
+    <configuration name="SalesServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sales" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.sales.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.sales.services" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.sales.services.SalesServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SalesServiceTest.calculateAverageAmountSales" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sales" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.sales.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.sales.services" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.sales.services.SalesServiceTest" />
+      <option name="METHOD_NAME" value="calculateAverageAmountSales" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SalesServiceTest.shouldFindMaxSales" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sales" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.sales.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.sales.services" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.sales.services.SalesServiceTest" />
+      <option name="METHOD_NAME" value="shouldFindMaxSales" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SalesServiceTest.shouldFindMinSales" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sales" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.sales.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.sales.services" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.sales.services.SalesServiceTest" />
+      <option name="METHOD_NAME" value="shouldFindMinSales" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SalesServiceTest.shouldFindqtyMonthBelowAverageSales" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sales" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.sales.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.sales.services" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.sales.services.SalesServiceTest" />
+      <option name="METHOD_NAME" value="shouldFindqtyMonthBelowAverageSales" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SalesServiceTest.shouldFindMinSales" />
+        <item itemvalue="JUnit.SalesServiceTest" />
+        <item itemvalue="JUnit.SalesServiceTest.shouldFindqtyMonthBelowAverageSales" />
+        <item itemvalue="JUnit.SalesServiceTest.shouldFindMaxSales" />
+        <item itemvalue="JUnit.SalesServiceTest.calculateAverageAmountSales" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7525dbf1-9f86-484c-bd26-869ddf37d016" name="Changes" comment="" />
+      <created>1658691627349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658691627349</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
